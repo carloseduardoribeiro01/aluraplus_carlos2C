@@ -66,3 +66,13 @@ body{
 .container__caixa {
     margin: 0 6em;
 }
+
+.secundario_imagem{
+    width: 80%;
+
+}
+
+.segundario{
+    align-items: center;
+    margin: 0 10em;
+}
